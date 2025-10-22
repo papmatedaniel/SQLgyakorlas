@@ -1,0 +1,2 @@
+# SQLgyakorlas
+sql lekérdezések
